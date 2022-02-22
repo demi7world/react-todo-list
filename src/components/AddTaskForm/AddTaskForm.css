@@ -1,0 +1,7 @@
+.add-task-form {
+    gap: 1em;
+}
+
+.add-task-form button {
+    font-weight: bold;
+}

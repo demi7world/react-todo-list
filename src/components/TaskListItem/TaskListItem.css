@@ -1,0 +1,23 @@
+li span span {
+    text-transform: capitalize;
+    margin-left: 1vw;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+li span .fas.fa-check {
+    opacity: 0;
+}
+
+li.done span .fas.fa-check {
+    opacity: 1;
+}
+
+li.done {
+    color: #198754;
+    border-color: #198754;
+}
+
+li.done span {
+    color: #198754;
+}
